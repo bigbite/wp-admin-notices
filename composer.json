@@ -1,0 +1,9 @@
+{
+    "name": "jonmcpartland/admin-notices",
+    "description": "This WordPress plugin allows the generation of admin notices more practical.",
+    "homepage": "https://github.com/JonMcPartland/Admin-Notices.git",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
